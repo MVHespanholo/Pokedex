@@ -1,0 +1,129 @@
+/* PokemonCard.css */
+
+.water-type {
+    background-color: #6890F0; /* Blue background color for Water type */
+    color: #FFF; /* White text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .fire-type {
+    background-color: #F08030; /* Orange background color for Fire type */
+    color: #FFF; /* White text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .grass-type {
+    background-color: #78C850; /* Green background color for Grass type */
+    color: #FFF; /* White text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .electric-type {
+    background-color: #F8D030; /* Yellow background color for Electric type */
+    color: #000; /* Black text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .psychic-type {
+    background-color: #F85888; /* Pink background color for Psychic type */
+    color: #000; /* Black text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .ice-type {
+    background-color: #98D8D8; /* Light Blue background color for Ice type */
+    color: #000; /* Black text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .fighting-type {
+    background-color: #C03028; /* Red background color for Fighting type */
+    color: #FFF; /* White text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .poison-type {
+    background-color: #A040A0; /* Purple background color for Poison type */
+    color: #FFF; /* White text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .ground-type {
+    background-color: #E0C068; /* Brown background color for Ground type */
+    color: #000; /* Black text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .flying-type {
+    background-color: #A890F0; /* Light Blue background color for Flying type */
+    color: #000; /* Black text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .rock-type {
+    background-color: #B8A038; /* Brown background color for Rock type */
+    color: #FFF; /* White text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .bug-type {
+    background-color: #A8B820; /* Green background color for Bug type */
+    color: #FFF; /* White text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .ghost-type {
+    background-color: #705898; /* Purple background color for Ghost type */
+    color: #FFF; /* White text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .steel-type {
+    background-color: #B8B8D0; /* Gray background color for Steel type */
+    color: #000; /* Black text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .normal-type {
+    background-color: #A8A878; /* Gray background color for Normal type */
+    color: #000; /* Black text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .dark-type {
+    background-color: #705848; /* Dark background color for Dark type */
+    color: #FFF; /* White text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .fairy-type {
+    background-color: #EE99AC; /* Pink background color for Fairy type */
+    color: #000; /* Black text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .dragon-type {
+    background-color: #7038F8; /* Purple background color for Dragon type */
+    color: #FFF; /* White text color for contrast */
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  
